@@ -6,9 +6,41 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+    <header>
+          <figure>
+          <img src="escape.png" alt="logo" width="400" height="100">
+         </figure>
+         <span class="pregunta">¿Cuál es la clave?</span>
+         <span class="descifra">Descifra el siguiente acertijo y descubre la clave que abre el candado:</span>
+    </header>
+
+    <main>
+        <img id="keylock" src="candado.png" width="25" height="30">
+      <div class="acertijo" id="pregunta">
+
+        <p>¿Qué palabra de cuatro letras contiene seis?</p>
+        <input type="text" placeholder="Respuesta aquí" id="respuesta" class="box">
+        <input type="number" id="offsetresultado" min="1" class="boxoffset">
+        <button id="btn" class="boton"> Click!</button>
+        <input type="text" id="cifrado" class="boxcifrado">
+        <input type="text" value="WIMW" class="resultado" readonly>
+      </div>
+
+
+      </main>
+
+    <footer>
+      <div class="desencriptar" id="pregunta4">
+      <span>¿Quieres asegurarte que cifraste correctamente? ¡Aquí puedes desencriptar tu respuesta!</span><br>
+      <input type="text" placeholder="Respuesta aquí" id="final" class="box">
+      <input type="number" id="offsetfinal" min="1" class="boxoffset">
+      <button id="btnfinal" class="boton">Click!</button>
+      <input type="text" id="cifradofinal" class="boxcifrado">
+      </div>
+    </footer>
+
     <script src="index.js" type="module"></script>
+
   </body>
+
 </html>

@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
+
+body{
+  background: #ffb03b;
+  margin-left: 5%;
+}
+
+figure{
+  margin-top: 50px;
+  margin-left: 5px;
+  margin-bottom: 50px;
+}
+
+main{
+  margin-top: 5%;
+}
+
+footer{
+  margin-top: 7%;
+
+}
+
+p{
+  display: inline-block;
+  width: 650px;
+  margin-right: 45px;
+  line-height: 10%;
+  font-family: 'Ubuntu';
+  font-size: 2em;
+  color: white;
+  font-weight: bold;
+}
+
+span{
+  font-size: 25px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #ba2d2d;
+  font-weight: bold;
+  display: block;
+}
+
+#keylock{
+  position: absolute;
+  top: 47.5%;
+  left: 68.5%
+}
+
+.pregunta{
+  font-size: 50px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: bold;
+  margin-right: 35px;
+  display: block;
+}
+
+.descifra{
+  font-size: 25px;
+  font-family: 'Ubuntu', sans-serif;
+  display:block;
+}
+
+.boxcifrado{
+width: 140px;
+height: 35px;
+margin-right: 3px;
+font-size: 0.9em;
+text-align: center;
+border:0;
+outline: none;
+border-radius: 5px;
+}
+
+.box{
+  width: 140px;
+  height: 35px;
+  margin-right: 3px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 0.9em;
+  text-align: center;
+  border: 0;
+  outline: none;
+}
+
+.boton{
+  width: 55px;
+  height: 40px;
+  border-radius: 50px;
+  margin-right: 3px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 0.7em;
+  text-align: center;
+  border:0;
+  outline: none;
+  }
+
+.boton:hover{
+  background-color: #ff9c08;
+  color:white;
+}
+
+.boxoffset{
+  width: 45px;
+  height: 35px;
+  margin-right: 3px;
+  text-align: center;
+  border:0;
+  outline: none;
+  border-radius: 5px;
+}
+
+.resultado{
+  width: 140px;
+  height: 35px;
+  margin-right: 3px;
+  font-family: 'Ubuntu';
+  font-size: 0.7em;
+  text-align: center;
+  border:0;
+}
