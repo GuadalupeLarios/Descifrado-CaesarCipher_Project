@@ -3,8 +3,8 @@
     Ambientado en una sala de escape, los participantes serán encerrados en una habitación donde la misión es resolver un acertijo. El funcionamiento del mismo es muy sencillo, para ello deben tener en cuenta la respuesta ya cifrada como referencia, de este modo conseguir el número de espacios que la palabra ha sido desplazada.
     El número de desplazamientos es el código que abre el candado de la habitación.
 
-    ![Página1](pag1.PNG)
-    ![Página2](pag2.png.PNG)
+ ![Página1](pag1.PNG)
+ ![Página2](pag2.png.PNG)
 
 ### Usuarios y objetivos en relación con el producto
     El producto está enfocado en las salas de escape donde por lo general la misión es resolver el misterio que rodea a una historia, para ello deben solucionar diversos enigmas, rompecabezas, encontrar llaves ocultas, abrir puertas, cajones y descifrar acertijos como en este caso, solo que usando tecnología debido a que el público objetivo son adultos entre 18 y 40 años.
