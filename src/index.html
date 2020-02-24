@@ -4,41 +4,38 @@
     <meta charset="utf-8">
     <title>Caesar Cipher</title>
     <link rel="stylesheet" href="style.css" />
+    <img src="descifrado.png" id="logo" >
+    <img src="puerta1.jpg" id="puerta" width="1330px" height="640px">
   </head>
+
   <body>
     <header>
-          <figure>
-          <img src="escape.png" alt="logo" width="400" height="100">
-         </figure>
-         <span class="pregunta">¿Cuál es la clave?</span>
-         <span class="descifra">Descifra el siguiente acertijo y descubre la clave que abre el candado:</span>
+           <span class="pregunta">¿Cuál es la clave?</span>
+           <span class="descifra">Descifra el siguiente acertijo y descubre la clave que abre el candado:</span>
+           <span Class="spoileralert"> SPOILER ALERT !  Tu respuesta cifrada debe coincidir con ➜
+           <input type="text" value="WIMW" class="resultado" readonly>
     </header>
 
     <main>
-        <img id="keylock" src="candado.png" width="25" height="30">
-      <div class="acertijo" id="pregunta">
-
-        <p>¿Qué palabra de cuatro letras contiene seis?</p>
-        <input type="text" placeholder="Respuesta aquí" id="respuesta" class="box">
-        <input type="number" id="offsetresultado" min="1" class="boxoffset">
-        <button id="btn" class="boton"> Click!</button>
-        <input type="text" id="cifrado" class="boxcifrado">
-        <input type="text" value="WIMW" class="resultado" readonly>
-      </div>
-
-
-      </main>
+      <div class="acertijo">
+          <img class="lock" id="keylock" src="candado.png" width="30" height="30"><br>
+          <p class="pregunta1">¿Qué palabra de cuatro letras contiene seis?</p>
+          <input type="text" placeholder="Respuesta aquí" id="respuesta" class="box">
+          <input type="number" id="offsetresultado" min="1" class="boxoffset">
+          <button id="btn" class="boton"> Cifrar!</button>
+          <input type="text" id="cifrado" class="boxcifrado">
+       </div>
+     </main>
 
     <footer>
-      <div class="desencriptar" id="pregunta4">
-      <span>¿Quieres asegurarte que cifraste correctamente? ¡Aquí puedes desencriptar tu respuesta!</span><br>
-      <input type="text" placeholder="Respuesta aquí" id="final" class="box">
-      <input type="number" id="offsetfinal" min="1" class="boxoffset">
-      <button id="btnfinal" class="boton">Click!</button>
-      <input type="text" id="cifradofinal" class="boxcifrado">
+      <div id="pregunta4">
+        <span class="desencriptar">¿Quieres asegurarte que cifraste correctamente? ¡Aquí puedes desencriptar tu respuesta!</span>
+        <input type="text" placeholder="Respuesta aquí" id="final" class="box">
+        <input type="number" id="offsetfinal" min="1" class="boxoffset">
+        <button id="btnfinal" class="boton">Descifrar!</button>
+        <input type="text" id="cifradofinal" class="boxcifrado">
       </div>
     </footer>
-
     <script src="index.js" type="module"></script>
 
   </body>

@@ -1,120 +1,162 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gruppo&display=swap');
 
 body{
-  background: #ffb03b;
-  margin-left: 5%;
+  background: #E4D6A7;
 }
 
-figure{
-  margin-top: 50px;
-  margin-left: 5px;
-  margin-bottom: 50px;
+header{
+  margin-top: 80px;
+  margin-right:50px;
+  margin-left: 50px;
+  margin-bottom:70px;
 }
 
 main{
-  margin-top: 5%;
+  margin-right: 65px;
+  margin-left: 65px;
 }
 
 footer{
-  margin-top: 7%;
-
+  margin-top: 65PX;
+  margin-bottom: 57px;
+  margin-right: 70px;
+  margin-left: 70px;
 }
 
-p{
-  display: inline-block;
-  width: 650px;
-  margin-right: 45px;
-  line-height: 10%;
-  font-family: 'Ubuntu';
-  font-size: 2em;
-  color: white;
-  font-weight: bold;
+#puerta1{
+position: relative;
 }
 
-span{
-  font-size: 25px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  color: #ba2d2d;
-  font-weight: bold;
-  display: block;
-}
-
-#keylock{
+#logo{
+  display:block;
   position: absolute;
-  top: 47.5%;
-  left: 68.5%
+  top: 250px;
+  left: 270px;
+}
+
+.lock{
+  margin-left: 884px;
+  position: absolute;
 }
 
 .pregunta{
-  font-size: 50px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 4.5em;
+  font-family: 'Orbitron', sans-serif;
   font-weight: bold;
-  margin-right: 35px;
-  display: block;
+  color: #BA0000;
+  display: inline-block;
+  align: center;
+
 }
 
 .descifra{
-  font-size: 25px;
-  font-family: 'Ubuntu', sans-serif;
-  display:block;
+  font-size: 2em;
+  font-family: 'Gruppo';
+  color: #BA0000;
+  display: block;
+}
+
+.spoileralert{
+  font-size: 1.9em;
+  font-family: 'Gruppo';
+  color: #BA0000;
+  font-weight: bold;
+}
+
+.pregunta1{
+  color: #353238;
+  font-size: 1.7em;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 35px;
 }
 
 .boxcifrado{
-width: 140px;
-height: 35px;
-margin-right: 3px;
-font-size: 0.9em;
-text-align: center;
-border:0;
-outline: none;
-border-radius: 5px;
-}
-
-.box{
-  width: 140px;
-  height: 35px;
-  margin-right: 3px;
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 0.9em;
-  text-align: center;
-  border: 0;
-  outline: none;
-}
-
-.boton{
-  width: 55px;
+  width: 160px;
   height: 40px;
-  border-radius: 50px;
   margin-right: 3px;
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 0.7em;
+  font-size: 0.9em;
   text-align: center;
   border:0;
   outline: none;
+  border-radius: 5px;
+  font-family: 'Orbitron', sans-serif;
+  color: #BA0000;
+  font-weight: bold;
+}
+
+.box{
+  width: 160px;
+  height: 40px;
+  margin-right: 3px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1em;
+  text-align: center;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+  color: #BA0000;
+  font-weight: bold;
+}
+
+.boton{
+  width: 100px;
+  height: 41px;
+  border-radius: 5px;
+  margin-right: 3px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1em;
+  text-align: center;
+  outline: none;
+  border:0;
+  color: #BA0000;
+  background-color: white;
   }
 
 .boton:hover{
-  background-color: #ff9c08;
+  background-color: #BA0000;
   color:white;
+  border: 0;
 }
 
 .boxoffset{
   width: 45px;
-  height: 35px;
+  height: 40px;
   margin-right: 3px;
   text-align: center;
   border:0;
   outline: none;
   border-radius: 5px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1em;
+  color: #BA0000;
+  font-weight: bold;
+  margin-top: 5px
 }
 
 .resultado{
-  width: 140px;
-  height: 35px;
-  margin-right: 3px;
-  font-family: 'Ubuntu';
-  font-size: 0.7em;
+  width: 160px;
+  height: 37px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.9em;
   text-align: center;
   border:0;
+  border-radius: 5px;
+  color: #BA0000;
+  outline: none;
+}
+
+.desencriptar{
+  font-size: 1.8em;
+  color: #751412;
+  font-family: 'Gruppo';
+  line-height: 80px;
+  color: #BA0000;
+  font-weight: bold;
+}
+
+#final{
+  margin-left: 350px;
 }
