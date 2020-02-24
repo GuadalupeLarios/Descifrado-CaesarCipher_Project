@@ -4,7 +4,7 @@
     El número de desplazamientos es el código que abre el candado de la habitación.
 
     ![Página1](pag1.PNG)
-    ![Página2](pag2.png)
+    ![Página2](pag2.png.PNG)
 
 ### Usuarios y objetivos en relación con el producto
     El producto está enfocado en las salas de escape donde por lo general la misión es resolver el misterio que rodea a una historia, para ello deben solucionar diversos enigmas, rompecabezas, encontrar llaves ocultas, abrir puertas, cajones y descifrar acertijos como en este caso, solo que usando tecnología debido a que el público objetivo son adultos entre 18 y 40 años.
