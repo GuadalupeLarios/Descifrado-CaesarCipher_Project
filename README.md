@@ -10,7 +10,7 @@ El producto está enfocado en las salas de escape donde por lo general la misió
 
 ![gif](escaperoom.gif)
 
-### Aplicando Cifrado Cesar
+### Aplicando Cifrado
 Al desarrollar código Cifrado Cesar en una aplicación web, facilita la interacción entre los usuarios y el juego, específicamente al momento de cifrar la respuesta y descubrir el número de espacios que la misma habría sido desplazada, imprescindible para la liberación de los participantes de la habitación.
 
 ### Prototipado
