@@ -1,42 +1,36 @@
 @import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Gruppo&display=swap');
 
-body{
-  background: #E4D6A7;
+*{
+  margin:10px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
-header{
-  margin-top: 80px;
-  margin-right:50px;
-  margin-left: 50px;
-  margin-bottom:70px;
+body{
+  background-image: url('pag1.png');
+  background-size:100vw 100vh;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
 }
 
 main{
-  margin-right: 65px;
-  margin-left: 65px;
+  top: 40%;
 }
 
-footer{
-  margin-top: 65PX;
-  margin-bottom: 57px;
-  margin-right: 70px;
-  margin-left: 70px;
+.vacio{
+  width: 100%;
+  height: 700px;
 }
 
-#puerta1{
-position: relative;
-}
-
-#logo{
-  display:block;
-  position: absolute;
-  top: 250px;
-  left: 270px;
+.contenedor{
+  width: 100%;
+  height: 660px;
+  background: #E4D6A7;
+  position: relative;
 }
 
 .lock{
-  margin-left: 884px;
   position: absolute;
 }
 
@@ -45,9 +39,8 @@ position: relative;
   font-family: 'Orbitron', sans-serif;
   font-weight: bold;
   color: #BA0000;
-  display: inline-block;
-  align: center;
-
+  position: relative;
+  left: 3%;
 }
 
 .descifra{
@@ -70,7 +63,7 @@ position: relative;
   font-family: 'Orbitron', sans-serif;
   font-weight: bold;
   display: inline-block;
-  margin-right: 35px;
+
 }
 
 .boxcifrado{
@@ -124,7 +117,6 @@ position: relative;
 .boxoffset{
   width: 45px;
   height: 40px;
-  margin-right: 3px;
   text-align: center;
   border:0;
   outline: none;
@@ -155,8 +147,4 @@ position: relative;
   line-height: 80px;
   color: #BA0000;
   font-weight: bold;
-}
-
-#final{
-  margin-left: 350px;
 }
