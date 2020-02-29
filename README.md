@@ -28,41 +28,37 @@ Durante el proceso de construcción del proyecto el diseño tuvo dos cambios pun
 
 ### Objetivos de aprendizaje
 
-## * [1] Sé lo que es y para que sirve.
-## * [2] Lo puedo explicar con mis propias palabras.
-## * [3] Lo puedo hacer sola desde cero en un proyecto diferente.
-
 #### UX
-* [2] [Diseñar la aplicación pensando y entendiendo al usuario]
-* [2] [Crear prototipos para obtener feedback e iterar]
-* [2] [Aplicar los principios de diseño visual]
+* [x] Diseñar la aplicación pensando y entendiendo al usuario
+* [x] Crear prototipos para obtener feedback e iterar
+* [x] Aplicar los principios de diseño visual
 
 #### HTML y CSS
-* [2] [Uso correcto de HTML semántico]
-* [2] [Uso de selectores de CSS]
-* [2] [Construir tu aplicación respetando el diseño realizado] (maquetación).
+* [x] Uso correcto de HTML semántico
+* [x] Uso de selectores de CSS
+* [x] Construir tu aplicación respetando el diseño realizado](maquetación)
 
 #### DOM
-* [1] [Uso de selectores de nodos del DOM]
-* [1] [Manejo de eventos del DOM]
-* [1] [Manipulación dinámica del DOM]
+* [x] Uso de selectores de nodos del DOM
+* [ ] Manejo de eventos del DOM
+* [ ] Manipulación dinámica del DOM
 
 #### Javascript
-* [1] [Manipulación de strings]
-* [1] [Uso de condicionales]
-* [1] [Uso de bucles]
-* [1] [Uso de funciones]
-* [ ] [Datos atómicos y estructurados]
+* [ ] Manipulación de strings
+* [ ] Uso de condicionales
+* [ ] Uso de bucles
+* [x] Uso de funciones
+* [ ] Datos atómicos y estructurados
 * [ ] Utilizar ES Modules (`import` | `export`)
 
 #### Testing
-* [1] [Testeo de tus funciones]
+* [ ] Testeo de tus funciones
 
 #### Git y GitHub
-* [1] [Comandos de git] (`add` | `commit` | `pull` | `status` | `push`)
-* [1] [Manejo de repositorios de GitHub] (`clone` | `fork` | `gh-pages`)
+* [x] Comandos de git (`add` | `commit` | `pull` | `status` | `push`)
+* [x] Manejo de repositorios de GitHub (`clone` | `fork` | `gh-pages`)
 
 #### Buenas prácticas de desarrollo
-* [1] Organizar y dividir el código en módulos (Modularización).
-* [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
-* [ ] Uso de linter para seguir buenas prácticas (ESLINT).
+* [x] Organizar y dividir el código en módulos (Modularización)
+* [x] Uso de identificadores descriptivos (Nomenclatura | Semántica)
+* [ ] Uso de linter para seguir buenas prácticas (ESLINT)
