@@ -1,7 +1,7 @@
 # Descifrado Escape Room
 Ambientado en una sala de escape, los participantes serán encerrados en una habitación donde la misión es resolver un acertijo. El funcionamiento del mismo es muy sencillo, para ello deben tener en cuenta la respuesta ya cifrada como referencia, de este modo conseguir el número de espacios que la palabra ha sido desplazada. El número de desplazamientos es el código que abre el candado de la habitación.
 
-![Pagina1](pag1.png)
+![Pagina1](img/pag1.png)
 
 ![Pagina2](pag2.png)
 
