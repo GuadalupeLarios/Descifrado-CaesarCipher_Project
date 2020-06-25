@@ -62,3 +62,5 @@ Durante el proceso de construcción del proyecto el diseño tuvo dos cambios pun
 * [x] Organizar y dividir el código en módulos (Modularización)
 * [x] Uso de identificadores descriptivos (Nomenclatura | Semántica)
 * [ ] Uso de linter para seguir buenas prácticas (ESLINT)
+
+[Grupo.Amate.pdf](https://github.com/GuadalupeLarios/LIM012-cipher/files/4832344/Grupo.Amate.pdf)
