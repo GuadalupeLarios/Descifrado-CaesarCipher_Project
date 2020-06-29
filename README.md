@@ -16,15 +16,13 @@ Al desarrollar código Cifrado Cesar en una aplicación web, facilita la interac
 ### Prototipado
 El diseño inicial lucía más como un formulario, sin embargo luego de pedir feedback y al ser una sala de escape, el color amarillo que coloqué al inicio resultaba ser un color demasiado llamativo para el ambiente en el cual se iba a desarrollar este proyecto. También resaltó el detalle que resultaba bastante complejo explicar la dinámica del acertijo y el cifrado como eje central del proyecto, además de la cantidad de preguntas.
 
-![Prototipadoenpapel](imagenes/prototipopapel.jpg)
+![Boceto](https://user-images.githubusercontent.com/60905476/85966269-d5158380-b984-11ea-860c-eb33bc318fd6.png)
 
 Durante el proceso de construcción del proyecto el diseño tuvo dos cambios puntuales:
 
 - Los colores: Al inicio se consideró usar colores llamativos, sin tener en cuenta la atmosfera en la cual el proyecto se iba a desenvolver.
-
 - Cantidad de preguntas: Por ser un juego dentro de otras actividades (varias habitaciones con diferentes misiones) se consideró trabajar en solo una pregunta.
 
-![Prototipadofinal](imagenes/prototipofinal.png)
 
 ### Objetivos de aprendizaje
 
