@@ -19,8 +19,8 @@ Durante el proceso de construcción del proyecto el diseño tuvo dos cambios pun
 - Los colores: Al inicio se consideró usar colores llamativos, sin tener en cuenta la atmosfera en la cual el proyecto se iba a desenvolver.
 - Cantidad de preguntas: Por ser un juego dentro de otras actividades (varias habitaciones con diferentes misiones) se consideró trabajar en solo una pregunta.
 
-![Boceto (2)](https://user-images.githubusercontent.com/60905476/85975196-08640c80-b99d-11ea-92c0-1d787bcc0457.png)
-
+### Propuesta final
+![Proyecto terminado (3)](https://user-images.githubusercontent.com/60905476/86441060-3913b100-bcd1-11ea-98b9-613c06ef870c.png)
 
 
 ### Objetivos de aprendizaje
